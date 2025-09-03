@@ -1,0 +1,46 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8a4bd;
+    width: 100vw;
+    height: 100vh;
+}
+
+img{
+    height: 250px;
+    width: 200px;
+}
+
+.box{
+
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    height: 700px;
+    width: 1200px;
+    background-color: white;
+}
+
+.box1{
+    display: flex;
+    flex-direction: row;
+}
+
+.card{
+    display: flex;
+    border-style: solid;
+}
+
+.lisa{
+    height: 500px;
+    width: 500px;
+}
+
+
+.box_lisa{
+
+    display: flex;
+}
